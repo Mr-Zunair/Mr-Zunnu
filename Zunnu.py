@@ -22,28 +22,28 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ git clone https://github.com/botolvau/bcloner
+$ git clone https://github.com/Mr-Zunair/Mr-Zunnu
 ```
 
-## Tools Run :
-```
-$ ls && cd bcloner && ls
-$ python2 bcloner.py
-```
-
-* Tools Username / Passwords : https://www.facebook.com/groups/231747098048450/permalink/275501883672971/
+* Tools Username :Zunair
+* Tools Password :Zunnu
 
 
 ## ***Follow Me***
 
-* Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-* Website : [Visit Now](http://www.mastertrick.design)
-* Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-* Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-* Telegram : [Join Now](https://t.me/mastertrick2)
-* Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-* Twitter : [Follow Me](https://www.twitter.com/botolbaba)
-* GitHub : [Follow Me](https://www.github.com/Botolvau)
+Facebook :[https://www.facebook.com/zunnu.harami.9]
+Whatsapp :[0 3 2 0 7 9 4 3 6 * *]
+Youtube  :[Zunnu Tricks]
+Fb Page  :[@zunnutrick]
+Instagram:[47_Memer]
+Tiktok   :[47_Memer]
+Snapchat :[mzunnu21]
+github   :[https://guthub.com/Mr-Zunair/Zunnu]
+
+
+* 
+
+
 
 ### Warning
 
